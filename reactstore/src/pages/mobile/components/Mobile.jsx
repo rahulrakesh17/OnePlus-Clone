@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+// import { MobileData } from "../../../components/Data/MobileData"
 import { useContext, useEffect, useState } from 'react';
 import { CreateContextApi } from '../../../Store/ContextApi';
 
